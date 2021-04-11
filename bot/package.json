@@ -1,0 +1,23 @@
+{
+"name": "HE",
+"version": "1.0.0",
+"description": "Cool",
+"main": "bot3.js",
+"scripts": {
+"start": "node bot3.js"
+},
+"dependencies": {
+    "discord.js": "^12.5.3",
+	"canvas": "2.7.0",
+	"discord-anti-spam": "2.5.0",
+    "request": "2.81.0"
+  },
+  "engines": {
+  "node": "12.14.1",
+  "npm": "6.13.4"
+},
+"repository": {
+  "type": "git",
+  "url": "git+link"
+}
+}
